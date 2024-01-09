@@ -50,6 +50,10 @@ input[type="text"] {
     padding: .25rem;
 }
 
+.colored-header {
+    background-color: lightcoral; 
+}
+
 input[type="submit"] {
     background-color: lightgrey;
     border: none;
